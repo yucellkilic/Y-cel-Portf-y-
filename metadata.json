@@ -1,0 +1,6 @@
+{
+  "name": "Yücel Kılıç - Cinematic Portfolio",
+  "description": "An immersive, luxury cinematic scrollytelling portfolio experience for Yücel Kılıç, premium developer and automation engineer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
